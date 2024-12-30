@@ -1,5 +1,5 @@
 
-Here's a description you can use for your GitHub repository:
+![Screenshot 2024-12-30 225249](https://github.com/user-attachments/assets/38cfaa93-ad53-4a77-856e-366a969b589a)
 
 E-Commerce Sales Dashboard Project
 This project involves creating an interactive Power BI dashboard to track and analyze sales data efficiently. The dashboard provides key insights such as sales amount, profit, quantity, average order value (AOV), and detailed breakdowns by state, category, customer, payment mode, and time.
