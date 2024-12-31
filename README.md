@@ -1,17 +1,17 @@
 
 ![Screenshot 2024-12-30 225249](https://github.com/user-attachments/assets/38cfaa93-ad53-4a77-856e-366a969b589a)
 
-E-Commerce Sales Dashboard Project
+# E-Commerce Sales Dashboard Project
 
 This project involves creating an interactive Power BI dashboard to track and analyze sales data efficiently. The dashboard provides key insights such as sales amount, profit, quantity, average order value (AOV), and detailed breakdowns by state, category, customer, payment mode, and time.
 
-Features
+## Features
 
 Interactive Dashboard: Enables users to explore sales trends and performance metrics interactively.
 Advanced Filtering: Implemented slicers and filters for dynamic data exploration, including quarterly and category-wise segmentation.
 Data Connections: Established relationships between tables and used calculated fields for enhanced data manipulation.
 
-Custom Visualizations:
+## Custom Visualizations:
 
 Bar Chart
 
@@ -32,7 +32,7 @@ Map
 Slicers
 
 
-Key Highlights
+## Key Highlights
 
 Developed custom parameters to allow drill-down capabilities in visualizations.
 
