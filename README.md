@@ -1,5 +1,4 @@
 
-![Screenshot 2024-12-30 225249](https://github.com/user-attachments/assets/38cfaa93-ad53-4a77-856e-366a969b589a)
 
 # E-Commerce Sales Dashboard Project
 
